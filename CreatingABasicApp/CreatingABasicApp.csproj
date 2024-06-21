@@ -7,4 +7,9 @@
         <Nullable>enable</Nullable>
     </PropertyGroup>
 
+    <ItemGroup>
+      <PackageReference Include="FirecrackerSharp" Version="0.6.0-beta" />
+      <PackageReference Include="FirecrackerSharp.Host.Local" Version="1.0.0-rc.5" />
+    </ItemGroup>
+
 </Project>
